@@ -1,1 +1,4 @@
 Here you will find projects made in the Unreal Engine.
+The laser was made in my first semester of college, it can interact with the Enemy ai aswell as the environment.
+The NPC is for my current project in which the NPC will follow the player, but they will start to roam around when they
+lose sight of the player.
